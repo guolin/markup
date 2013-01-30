@@ -1,0 +1,7 @@
+*.pyc
+settings.py
+.DS_Store
+templates
+templates/*
+www
+www/*
